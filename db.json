@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "Allen Solly Shirts",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220704/mSKp/62c2c22df997dd03e2b7529d/-473Wx593H-469237520-green-MODEL.jpg",
+      "currentPrice": "500",
+      "standardPrice": "1000",
+      "discount": "50",
+      "name": "Men's Pure Cotton Shirt"
+    },
+    {
+      "id": "2",
+      "brand": "Levi's Jeans",
+      "image": "https://levi.in/cdn/shop/files/236770296_04_Side_e7d53e38-4fc4-4717-bf5f-4b1a2435a164.jpg?v=1712743269&width=1445",
+      "currentPrice": "2000",
+      "standardPrice": "3000",
+      "discount": "33",
+      "name": "Men's Slim Fit Jeans"
+    },
+    {
+      "id": "3",
+      "brand": "Nike Sneakers",
+      "image": "https://static.nike.com/a/images/f_auto/dpr_3.0,cs_srgb/h_500,c_limit/64265cce-0cfc-4309-aa45-33835124eeaa/the-best-nike-high-top-sneakers-you-can-buy-right-now-articles-ogc.jpg",
+      "currentPrice": "3500",
+      "standardPrice": "5000",
+      "discount": "30",
+      "name": "Air Max Sneakers"
+    },
+    {
+      "id": "4",
+      "brand": "Puma T-Shirts",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/847902/01/mod01/fnd/IND/fmt/png/PUMA-Graphic-Men's-Slim-Fit-T-Shirt",
+      "currentPrice": "700",
+      "standardPrice": "1400",
+      "discount": "50",
+      "name": "Men's Sports T-Shirt"
+    },
+    {
+      "id": "5",
+      "brand": "Adidas Hoodies",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/cf8ecee03b85471da973afd000e14d30_9366/Adicolor_Classics_Trefoil_Hoodie_Black_IM4489_21_model.jpg",
+      "currentPrice": "2500",
+      "standardPrice": "5000",
+      "discount": "50",
+      "name": "Men's Classic Hoodie"
+    },
+    {
+      "id": "6",
+      "brand": "Ray-Ban Sunglasses",
+      "image": "https://rukminim2.flixcart.com/image/750/900/kvzkosw0/sunglass/h/g/j/0rb2193901-5853-m-ray-ban-original-imag8rzg3jyavchf.jpeg?q=20&crop=false",
+      "currentPrice": "4500",
+      "standardPrice": "6000",
+      "discount": "25",
+      "name": "Aviator Sunglasses"
+    },
+    {
+      "id": "7",
+      "brand": "Timberland Boots",
+      "image": "https://m.media-amazon.com/images/I/8186zJpLERL._AC_UY300_.jpg",
+      "currentPrice": "6000",
+      "standardPrice": "8000",
+      "discount": "25",
+      "name": "Men's Waterproof Boots"
+    },
+    {
+      "id": "8",
+      "name": "Men's Winter Jacket",
+      "brand": "Tommy Hilfiger Jackets",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jacket/5/w/y/m-1-no-a1amo131-tommy-hilfiger-original-imaggc757w7ahz2g.jpeg?q=90&crop=false",
+      "currentPrice": "4000",
+      "standardPrice": "8000",
+      "discount": "50"
+    },
+    {
+      "id": "9",
+      "brand": "Calvin Klein Boxers",
+      "image": "https://johnlewis.scene7.com/is/image/JohnLewis/005118779",
+      "currentPrice": "1000",
+      "standardPrice": "2000",
+      "discount": "50",
+      "name": "Men's Cotton Boxers"
+    },
+    {
+      "id": "10",
+      "brand": "H&M Dresses",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb2%2F18%2Fb2184e4ae249aecfa024114c28c803bd00b6c35b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "currentPrice": "1500",
+      "standardPrice": "3000",
+      "discount": "50",
+      "name": "Women's Summer Dress"
+    },
+    {
+      "id": "1338",
+      "name": "Men Printed T-Shirt",
+      "brand": "KAJARU",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/g/8/xl-tsrt-catalog-03-makemode-original-imagh99vbxwzhhud.jpeg?q=70",
+      "currentPrice": "1399",
+      "standardPrice": "241",
+      "discount": "82"
+    }
+  ]
+}
